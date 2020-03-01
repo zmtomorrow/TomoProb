@@ -13,5 +13,8 @@ Here are some useful pytorch tools for probabilistic modeling.
 ### Categorical distribution
 1. sample a batch using gumbel max trick
 
+### Others 
+1. Batch Jacobian
+2. Batch KL
 
 
